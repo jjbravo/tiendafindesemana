@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="iconos">
+    <file>cervezapoker.png</file>
+    <file>botellablancodelvalle.png</file>
+  </qresource>
+</RCC>
